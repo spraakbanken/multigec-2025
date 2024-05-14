@@ -25,7 +25,7 @@ XXXXX
 ## Data
 
 We provide training, development and test data for each of the XXX  languages: English, XXXX, Slovene, Swedish. 
-The training and development datasets are available in the private [MultiGEC-2025-data Github repository](https://github.com/spraakbanken/multigec-2025-data/). Test sets will be released during the test phase, in the same repository. 
+The training and development datasets are available in the private Github repository for [MultiGEC-2025 data](https://github.com/spraakbanken/multigec-2025-data/). Test sets will be released during the test phase, in the same repository. 
 
 ### Data access
 
