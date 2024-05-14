@@ -29,9 +29,10 @@ The training and development datasets are available in the private [MultiGEC-202
 
 ### Data access
 
-To get access, you need to agree to the [Terms of Use]() -- set up a form (google?) and add here. 
+To get access, you need to agree to the [Terms of Use](https://forms.gle/VLJ18WbwsxitEBYi7). 
 More information about each corpus is available below. 
 
+XXX
 
 ### Data Format
 
