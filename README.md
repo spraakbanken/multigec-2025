@@ -14,7 +14,7 @@ Official system evaluation will be carried out on [CodaLab](https://codalab.lisn
 
 ## Task description
 
-The aim of this shared task is to rewrite the original learner-written sentences in a corrected form, where necessary, adhering to the "minimal correction" pronciple. An example below shows XXXX.
+The aim of this shared task is to rewrite the original learner-written sentences in a corrected form, where necessary, adhering to the "minimal correction" principle. An example below shows XXXX.
 
 XXXXX
 
