@@ -46,6 +46,60 @@ More information about each corpus is available below.
 
 ## Evaluation 
 
+### Automated metrics
+
+There are two automated metrics used:
+ * Reference-based: [GLEU](https://github.com/cnap/gec-ranking)
+ * Reference-free: [Scribendi score](https://github.com/gotutiyan/scribendi_score)
+
+Questions and notes:
+ * These metrics are chosen because they are relatively simple and work with
+   the kind of data we have, without having to train additional models (like
+   other reference-free metrics) or having access to an NLP pipeline for all
+   languages (as used by ERRANT). Scribendi score is not particularly
+   well-known and basically just an LM score. It, or something similar, would
+   be useful as a complement to a reference-based metric like GLEU. If anyone
+   think it does more harm than good, just say so.
+ * Which LM to use with Scribendi score (or whatever reference-free metric we
+   end up using)? The original implementation uses GPT-2, but we need
+   something multilingual that supports all languages included in the test
+   set.
+
+### Human evaluation
+
+Submissions to the human evaluation will be admitted on the condition that the
+submitter also performs a certain amount of manual evaluation. Participating
+teams will be able to specify which language(s) they are comfortable
+annotating, and the organizers will divide system outputs for annotation
+based on this information.
+
+Each system output will be annotated in the following four ways:
+ * Scores for grammaticality, fluency, and meaning preservation.
+ * Post-edited versions of the system output to achieve full scores (that is,
+   the human performs the leftover work from the GEC system).
+
+Systems will be ranked according to the mean reciprocal rank from the three
+scores as well as the edit distance between the system output and its
+post-edited version.
+
+Questions and notes:
+ * This is a rough draft and everything is up for discussion. The method
+   closely follows Östling et al. (2024) at LREC/COLING, and uses mean
+   reciprocal rank to weigh together the four different scores. Is this at all
+   a good idea?
+ * Including a human evaluation will generate the first(?) dataset of
+   human-scored system outputs after LLMs started being used for GEC, giving
+   us a more recent dataset than the CoNLL-14 data often used for studying GEC
+ * Including post-edits will generate new references, that can be used for
+   future automatic evaluations, error analysis, etc.
+ * Evaluating all languages manually is unrealistic. The competence of
+   participants will vary, and some languages will probably be impossible to
+   evaluate manually at all due to lack of competent annotators.
+   What to focus on?
+ * What platform or system to use for distributing tasks and gathering the
+   evaluations?
+ * If we go for post-editing edit distance as a metric, which edit distance to
+   use? Levenshtein works but does not handle reordering well.
 
 ---
 
