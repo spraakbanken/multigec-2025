@@ -2,12 +2,15 @@
 
 __Public MultiGEC 2025 repository__
 
-The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, which includes XXX languages: English, Slovene, Swedish, XXX.
+The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, which includes XXX languages: (confirmed) Czech, English, Icelandic, Italian, Latvian, Slovene, Swedish; (under negotiation) Estonian, German, Greek, Russian.
 
 The results will be presented on March 2 or 5, 2025 (the date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallin, on 2--5 March 2025. 
 
+The publication venue for system descriptions will be the proceedings of the NLP4CALL workshop. 
+
 To register for/express interest in the shared task, please fill in [this form](https://forms.gle/nTPfARVqy1XmqT4t6).   
-To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multiged-2023) -- to be created)
+
+To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multigec-2025) -- to be created)
 Official system evaluation will be carried out on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9784) -- to be created.  
 
 ---
