@@ -2,7 +2,7 @@
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering over 10 languages, including Czech, English, Estonian, German, Icelandic, Italian, Latvian, Slovene, Swedish and Ukrainian.
 
-The results will be presented on March 2 or 5, 2025 (the date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallin, on 2--5 March 2025. 
+The results will be presented on March 5 (or 2), 2025 (date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallinn, on 2--5 March 2025. 
 
 The publication venue for system descriptions will be the proceedings of the NLP4CALL workshop. 
 
@@ -17,24 +17,24 @@ In this shared task, your goal is to rewrite learner-written texts to make them 
 
 For instance, the text 
 
-> My mother became very sad, lied in bed, no food. My sister die five months later.
+> My mother became very sad, no food. But my sister better five months later.
 
 can be corrected minimally as 
 
-> My mother became very sad, lied in bed __and ate__ no food. My sister __died__ five months later. 
+> My mother became very sad, __and ate__ no food. But my sister __felt better__ five months later. 
 
 or with fluency edits as
 
-> My mother __was__ very __distressed__, lied in bed __and refused to eat__. My sister __died__ five months later. 
+> My mother __was__ very __distressed__ __and refused to eat. Luckily__ my sister __recovered__ five months later. 
 
 For fair evaluation of both approaches to the correction task, we will provide two evaluation metrics, one favoring minimal correction, one suited for fluency-edited output (read more under [Evaluation](#evaluation)). 
 
-We particularly encourage development of multilingual systems that can process all languages using a single model, but this is not a mandatory requirement to participate in the task. 
+We particularly encourage development of multilingual systems that can process all (or several) languages using a single model, but this is not a mandatory requirement to participate in the task. 
 
 ## Data
 
 We provide training, development and test data for each of the languages.
-The training and development datasets will be made available through Github. 
+The training and development splits will be made available through Github. 
 Evaluation will be performed on a separate test set. 
 
 ### Data access
@@ -79,12 +79,12 @@ Participants may use additional resources to build their systems __provided that
 ## Evaluation 
 During the shared task, evaluation will be based on cross-lingually applicable __automatic metrics__, primarily:
 
- * [GLEU](https://github.com/cnap/gec-ranking) (reference-based)
+ * [GLEU score](https://github.com/cnap/gec-ranking) (reference-based)
  * [Scribendi score](https://github.com/gotutiyan/scribendi_score) (reference-free)
 
-For better comparability with previous results, we will also provide F0.5 scores.
+For comparability with previous results, we will also provide F0.5 scores.
 
-After the shared task, we also plan on carrying on a __human evaluation__ experiment on a subset of the submitted results. 
+After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
 ## Timeline (preliminary)
 * June 18, 2024 - first call for participation
@@ -97,7 +97,7 @@ After the shared task, we also plan on carrying on a __human evaluation__ experi
 * December 20, 2024 - paper submission deadline with system descriptions
 * January 20, 2025 - paper reviews sent to the authors
 * February 7, 2025 - camera-ready deadline
-* March 5 (or March 2), 2025 - presentations of the systems at NLP4CALL workshop 
+* March 5 (or March 2), 2025 - presentations of the systems at the NLP4CALL workshop 
 
 
 ## Publication
@@ -137,4 +137,4 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 
 ## Contact information and forum for discussions
 
-Please join the [MultiGEC-2025 google group](https://groups.google.com/g/multigec-2025) in order to ask questions, hold discussions and browse for already answered questions.
+Please join the [MultiGEC-2025 Google group](https://groups.google.com/g/multigec-2025) in order to ask questions, hold discussions and browse for already answered questions.
