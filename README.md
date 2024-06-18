@@ -1,8 +1,6 @@
 # Shared task on Multilingual Grammatical Error Correction (MultiGEC-2025)
 
-__Public MultiGEC 2025 repository__
-
-The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, which includes XXX languages: (confirmed) Czech, English, Icelandic, Italian, Latvian, Slovene, Swedish; (under negotiation) Estonian, German, Greek, Russian.
+The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering over 10 languages, including Czech, English, Estonian, German, Icelandic, Italian, Latvian, Slovene, Swedish and Ukrainian.
 
 The results will be presented on March 2 or 5, 2025 (the date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallin, on 2--5 March 2025. 
 
@@ -10,122 +8,103 @@ The publication venue for system descriptions will be the proceedings of the NLP
 
 To register for/express interest in the shared task, please fill in [this form](https://forms.gle/nTPfARVqy1XmqT4t6).   
 
-To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multigec-2025) -- to be created)
-Official system evaluation will be carried out on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9784) -- to be created.  
+To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multigec-2025).
 
----
+Official system evaluation will be carried out on CodaLab.  
 
 ## Task description
+In this shared task, your goal is to rewrite learner-written texts to make them grammatically correct or both grammatically correct and idiomatic, that is either adhering to the "minimal correction" principle or applying fluency edits. 
 
-The aim of this shared task is to rewrite the original learner-written sentences in a corrected form, where necessary, adhering to the "minimal correction" principle. An example below shows XXXX.
+For instance, the text 
 
-XXXXX
+> My mother became very sad, lied in bed, no food. My sister die five months later.
 
-???? We particularly encourage development of multilingual systems that can process all languages using a single model, but this is not a mandatory requirement to participate in the task. 
+can be corrected minimally as 
 
----
+> My mother became very sad, lied in bed __and ate__ no food. My sister __died__ five months later. 
+
+or with fluency edits as
+
+> My mother __was__ very __distressed__, lied in bed __and refused to eat__. My sister __died__ five months later. 
+
+For fair evaluation of both approaches to the correction task, we will provide two evaluation metrics, one favoring minimal correction, one suited for fluency-edited output (read more under [Evaluation](#evaluation)). 
+
+We particularly encourage development of multilingual systems that can process all languages using a single model, but this is not a mandatory requirement to participate in the task. 
 
 ## Data
 
-We provide training, development and test data for each of the XXX  languages: English, XXXX, Slovene, Swedish. 
-The training and development datasets are available in the private Github repository for [MultiGEC-2025 data](https://github.com/spraakbanken/multigec-2025-data/). Test sets will be released during the test phase, in the same repository. 
+We provide training, development and test data for each of the languages.
+The training and development datasets will be made available through Github. 
+Evaluation will be performed on a separate test set. 
 
 ### Data access
 
 To get access, you need to agree to the [Terms of Use](https://forms.gle/VLJ18WbwsxitEBYi7). 
-More information about each corpus is available below. 
-
-XXX
 
 ### Data Format
+The dataset, divided into folders based on language, consists of essay-aligned files, one containing the original learner essays, and one or more containing reference (corrected/normalized) texts.
 
+Internally, each file follows this simple markdown-based format:
+
+```
+### essay_id = 1
+Full text of the first essay/reference.
+
+Whitespace, including newline characters, is preserved, but for the sake of readability TWO consecutive newline characters spearate subsequent essays.
+
+### essay_id = 2
+Full text of the second essay/reference.
+
+...
+```
 
 ### External Data
-
+Participants may use additional resources to build their systems __provided that the resource is publicly available for research purposes__. This includes monolingual data, artificial data, pretrained models, syntactic parsers, etc. After the shared task, we encourage participants to share any newly created resources with the community.
 
 ### Data Licenses
 
-
----
+| Language |  Corpus name | Corpus license | MultiGEC license | 
+|:---------|:-------------|:---------------|:------------------|
+| Czech    | 
+| English  | 
+| Estonian |
+| German   |
+| Icelandic | 
+| Italian  | 
+| Latvian  | 
+| Slovene  |
+| Swedish  |
+| Ukrainian |
 
 ## Evaluation 
+During the shared task, evaluation will be based on cross-lingually applicable __automatic metrics__, primarily:
 
-### Automated metrics
+ * [GLEU](https://github.com/cnap/gec-ranking) (reference-based)
+ * [Scribendi score](https://github.com/gotutiyan/scribendi_score) (reference-free)
 
-There are two automated metrics used:
- * Reference-based: [GLEU](https://github.com/cnap/gec-ranking)
- * Reference-free: [Scribendi score](https://github.com/gotutiyan/scribendi_score)
+For better comparability with previous results, we will also provide F0.5 scores.
 
-Questions and notes:
- * These metrics are chosen because they are relatively simple and work with
-   the kind of data we have, without having to train additional models (like
-   other reference-free metrics) or having access to an NLP pipeline for all
-   languages (as used by ERRANT). Scribendi score is not particularly
-   well-known and basically just an LM score. It, or something similar, would
-   be useful as a complement to a reference-based metric like GLEU. If anyone
-   think it does more harm than good, just say so.
- * Which LM to use with Scribendi score (or whatever reference-free metric we
-   end up using)? The original implementation uses GPT-2, but we need
-   something multilingual that supports all languages included in the test
-   set.
+After the shared task, we also plan on carrying on a __human evaluation__ experiment on a subset of the submitted results. 
 
-### Human evaluation
-
-Submissions to the human evaluation will be admitted on the condition that the
-submitter also performs a certain amount of manual evaluation. Participating
-teams will be able to specify which language(s) they are comfortable
-annotating, and the organizers will divide system outputs for annotation
-based on this information.
-
-Each system output will be annotated in the following four ways:
- * Scores for grammaticality, fluency, and meaning preservation.
- * Post-edited versions of the system output to achieve full scores (that is,
-   the human performs the leftover work from the GEC system).
-
-Systems will be ranked according to the mean reciprocal rank from the three
-scores as well as the edit distance between the system output and its
-post-edited version.
-
-Questions and notes:
- * This is a rough draft and everything is up for discussion. The method
-   closely follows Östling et al. (2024) at LREC/COLING, and uses mean
-   reciprocal rank to weigh together the four different scores. Is this at all
-   a good idea?
- * Including a human evaluation will generate the first(?) dataset of
-   human-scored system outputs after LLMs started being used for GEC, giving
-   us a more recent dataset than the CoNLL-14 data often used for studying GEC
- * Including post-edits will generate new references, that can be used for
-   future automatic evaluations, error analysis, etc.
- * Evaluating all languages manually is unrealistic. The competence of
-   participants will vary, and some languages will probably be impossible to
-   evaluate manually at all due to lack of competent annotators.
-   What to focus on?
- * What platform or system to use for distributing tasks and gathering the
-   evaluations?
- * If we go for post-editing edit distance as a metric, which edit distance to
-   use? Levenshtein works but does not handle reordering well.
-
----
-
-## Timeline
-
-* September 20, 2024 - first call for participation. 
-* October 20, 2024 - second call for participation. Training and validation data released, CodaLab opens for team registrations.
-* October 30, 2024 - third call/reminder. Validation server released online.
+## Timeline (preliminary)
+* June 18, 2024 - first call for participation
+* September 20, 2024 - second call for participation 
+* October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
+* October 30, 2024 - reminder. Validation server released online
 * November 13, 2024 - test data released
 * November 20, 2024 - system submission deadline (system output)
 * November 29, 2024 - results announced
-* January 10, 2025 - paper submission deadline with system descriptions. We encourage you to share models, code, fact sheets, extra data, etc. with the community through github or other repositories on paper publication.
+* December 20, 2024 - paper submission deadline with system descriptions
 * January 20, 2025 - paper reviews sent to the authors
 * February 7, 2025 - camera-ready deadline
-* March 5, 2025 - presentations of the systems at NLP4CALL workshop 
+* March 5 (or March 2), 2025 - presentations of the systems at NLP4CALL workshop 
 
-
----
 
 ## Publication
-
----
+We encourage you to submit a paper with your system description to the NLP4CALL workshop special track. 
+We follow the same requirements for paper submissions as the NLP4CALL workshop, i.e. we use the same template and apply the same page limit. 
+All papers will be reviewed by the organizing committee. 
+Upon paper publication, we encourage you to share models, code, fact sheets, extra data, etc. with the community through GitHub or other repositories.
 
 ## Organizers
 
@@ -137,16 +116,18 @@ Questions and notes:
 * [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
 * [Robert Östling](https://www.su.se/english/profiles/robe-1.187515), Stockholm University, Sweden
 
----
-
 ## Data providers
-
-* English: Andrew Caines -- University of Cambridge, UK
-* Slovene: Špela Arhar Holdt, Mojca Stritar -- University of Ljubljana, Slovenia
-* Swedish: Elena Volodina, Arianna Masciolini, Ricardo Muñoz Sánchez -- University of Gothenburg, Sweden
-
----  
+- Czech: Alexandr Rosen (alexandr.rosen@gmail.com) 
+- English: Andrew Caines (apc38@cam.ac.uk) 
+- Estonian: Mark Fishel (mark@tartunlp.ai), Kais Allkivi-Metsoja (kais@tlu.ee) and Kristjan Suluste (kristjan.suluste@eki.ee) 
+- German: Torsten Zesch (torsten.zesch@fernuni-hagen.de) and Andrea Horbach (horbach@uni-hildesheim.de)
+- Icelandic: Isidora Glisič (isidora@hi.is)
+- Italian: Jenny Frey (jennifercarmen.frey@eurac.edu)
+- Latvian: Roberts Darģis (roberts.dargis@lumii.lv) and Ilze Auzina (ilze.auzina@lumii.lv)
+- Slovene: Špela Arhar Holdt (arhar.spela@gmail.com)
+- Swedish: Arianna Masciolini (arianna.masciolini@gu.se)
+- Ukrainian: Oleksiy Syvokon (osyvokon@microsoft.com) and Mariana Romanyshyn (mariana.romanyshyn@grammarly.com)
 
 ## Contact information and forum for discussions
 
-Please join the [MultiGEC-2025 google group](XXX) in order to ask questions, hold discussions and browse for already answered questions.
+Please join the [MultiGEC-2025 google group](https://groups.google.com/g/multigec-2025) in order to ask questions, hold discussions and browse for already answered questions.
