@@ -117,16 +117,23 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 * [Robert Östling](https://www.su.se/english/profiles/robe-1.187515), Stockholm University, Sweden
 
 ## Data providers
-- Czech: Alexandr Rosen (alexandr.rosen@gmail.com) 
-- English: Andrew Caines (apc38@cam.ac.uk) 
-- Estonian: Mark Fishel (mark@tartunlp.ai), Kais Allkivi-Metsoja (kais@tlu.ee) and Kristjan Suluste (kristjan.suluste@eki.ee) 
-- German: Torsten Zesch (torsten.zesch@fernuni-hagen.de) and Andrea Horbach (horbach@uni-hildesheim.de)
-- Icelandic: Isidora Glisič (isidora@hi.is)
-- Italian: Jenny Frey (jennifercarmen.frey@eurac.edu)
-- Latvian: Roberts Darģis (roberts.dargis@lumii.lv) and Ilze Auzina (ilze.auzina@lumii.lv)
-- Slovene: Špela Arhar Holdt (arhar.spela@gmail.com)
-- Swedish: Arianna Masciolini (arianna.masciolini@gu.se)
-- Ukrainian: Oleksiy Syvokon (osyvokon@microsoft.com) and Mariana Romanyshyn (mariana.romanyshyn@grammarly.com)
+- Czech: Alexandr Rosen, Charles University, Prague 
+- English: Andrew Caines, University of Cambridge 
+- Estonian: 
+  - Mark Fishel, University of Tartu, Estonia
+  - Kais Allkivi-Metsoja, Tallinn University, Estonia
+  - Kristjan Suluste, Eesti Keele Instituut, Estonia 
+- German: 
+  - Torsten Zesch, Fernuniversität in Hagen, Germany
+  - Andrea Horbach, Fernuniversität in Hagen, Germany
+- Icelandic: Isidora Glisič, University of Iceland
+- Italian: Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
+- Latvian: 
+  - Roberts Darģis, University of Latvia
+  - Ilze Auzina, University of Latvia
+- Slovene: Špela Arhar Holdt, University of Ljubljana, Slovenia
+- Swedish: Arianna Masciolini, University of Gothenburg, Sweden
+- Ukrainian: Oleksiy Syvokon, Microsoft and Mariana Romanyshyn, Grammarly
 
 ## Contact information and forum for discussions
 
