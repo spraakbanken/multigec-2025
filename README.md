@@ -77,12 +77,13 @@ Participants may use additional resources to build their systems __provided that
 | Ukrainian |
 
 ## Evaluation 
-During the shared task, evaluation will be based on cross-lingually applicable __automatic metrics__, primarily:
+During the shared task, evaluation will be based on the following cross-lingually applicable __automatic metrics__:
 
- * [GLEU score](https://github.com/cnap/gec-ranking) (reference-based)
- * [Scribendi score](https://github.com/gotutiyan/scribendi_score) (reference-free)
-
-For comparability with previous results, we will also provide F0.5 scores.
+- reference-based:
+  - [GLEU score](https://github.com/cnap/gec-ranking)
+  - Precision, Recall, F0.5 score
+- reference-free: 
+  - [Scribendi score](https://github.com/gotutiyan/scribendi_score)
 
 After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
