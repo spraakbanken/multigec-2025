@@ -117,23 +117,31 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 * [Robert Östling](https://www.su.se/english/profiles/robe-1.187515), Stockholm University, Sweden
 
 ## Data providers
-- Czech: Alexandr Rosen, Charles University, Prague 
-- English: Andrew Caines, University of Cambridge 
+- Czech:
+  - Alexandr Rosen, Charles University, Prague 
+- English:
+  - Andrew Caines, University of Cambridge 
 - Estonian: 
   - Mark Fishel, University of Tartu, Estonia
   - Kais Allkivi-Metsoja, Tallinn University, Estonia
   - Kristjan Suluste, Eesti Keele Instituut, Estonia 
 - German: 
-  - Torsten Zesch, Fernuniversität in Hagen, Germany
-  - Andrea Horbach, Fernuniversität in Hagen, Germany
-- Icelandic: Isidora Glisič, University of Iceland
-- Italian: Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
+  - Andrea Horbach, Universität Hildesheim, Germany
+  - Katrin Wisniewski, Universität Leipzig
+  - Torsten Zesch, FernUniversität in Hagen, Germany
+- Icelandic:
+  - Isidora Glisič, University of Iceland
+- Italian:
+  - Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
 - Latvian: 
   - Roberts Darģis, University of Latvia
   - Ilze Auzina, University of Latvia
-- Slovene: Špela Arhar Holdt, University of Ljubljana, Slovenia
-- Swedish: Arianna Masciolini, University of Gothenburg, Sweden
-- Ukrainian: Oleksiy Syvokon, Microsoft and Mariana Romanyshyn, Grammarly
+- Slovene:
+  - Špela Arhar Holdt, University of Ljubljana, Slovenia
+- Swedish:
+  - Arianna Masciolini, University of Gothenburg, Sweden
+- Ukrainian:
+  - Oleksiy Syvokon, Microsoft and Mariana Romanyshyn, Grammarly
 
 ## Contact information and forum for discussions
 
