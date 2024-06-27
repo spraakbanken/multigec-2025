@@ -132,7 +132,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Katrin Wisniewski, Universität Leipzig
   - Torsten Zesch, FernUniversität in Hagen, Germany
 - Greek:
-  - Alex Tantos, Aristotle University of Thessaloniki and Universität Konstanz  
+  - Alex Tantos, Aristotle University of Thessaloniki  
 - Icelandic:
   - Isidora Glisič, University of Iceland
 - Italian:
@@ -140,6 +140,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 - Latvian: 
   - Roberts Darģis, University of Latvia
   - Ilze Auzina, University of Latvia
+- Russian: Alla Rozovskaya, City University of New York (CUNY), USA
 - Slovene:
   - Špela Arhar Holdt, University of Ljubljana, Slovenia
 - Swedish:
