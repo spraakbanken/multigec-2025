@@ -140,7 +140,8 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 - Latvian: 
   - Roberts Darģis, University of Latvia
   - Ilze Auzina, University of Latvia
-- Russian: Alla Rozovskaya, City University of New York (CUNY), USA
+- Russian:
+  - Alla Rozovskaya, City University of New York (CUNY), USA
 - Slovene:
   - Špela Arhar Holdt, University of Ljubljana, Slovenia
 - Swedish:
