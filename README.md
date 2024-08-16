@@ -1,6 +1,6 @@
 # Shared task on Multilingual Grammatical Error Correction (MultiGEC-2025)
 
-The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering over 10 languages, including Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
+The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering over 10 languages, including Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
 The results will be presented on March 5 (or 2), 2025 (date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallinn, on 2--5 March 2025. 
 
@@ -73,6 +73,7 @@ Participants may use additional resources to build their systems __provided that
 | Icelandic | 
 | Italian  | 
 | Latvian  | 
+| Russian  | 
 | Slovene  |
 | Swedish  |
 | Ukrainian |
