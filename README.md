@@ -121,7 +121,8 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 
 ## Data providers
 - Czech:
-  - Alexandr Rosen, Charles University, Prague 
+  - Alexandr Rosen, Charles University, Prague
+  - Adrian Jan Zasina, Charles University, Prague
 - English:
   - Andrew Caines, University of Cambridge 
 - Estonian: 
@@ -145,6 +146,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Alla Rozovskaya, City University of New York (CUNY), USA
 - Slovene:
   - Špela Arhar Holdt, University of Ljubljana, Slovenia
+  - Aleš Žagar, University of Ljubljana, Slovenia
 - Swedish:
   - Arianna Masciolini, University of Gothenburg, Sweden
 - Ukrainian:
