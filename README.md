@@ -151,7 +151,8 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 - Swedish:
   - Arianna Masciolini, University of Gothenburg, Sweden
 - Ukrainian:
-  - Oleksiy Syvokon, Microsoft and Mariana Romanyshyn, Grammarly
+  - Oleksiy Syvokon, Microsoft
+  - Mariana Romanyshyn, Grammarly
 
 ## Contact information and forum for discussions
 
