@@ -114,6 +114,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 * [Arianna Masciolini](https://harisont.github.io/research.html), University of Gothenburg, Sweden
 * [Andrew Caines](https://www.cl.cam.ac.uk/~apc38/), University of Cambridge, UK
 * [Orphee De Clecrq](https://research.flw.ugent.be/en/orphee.declercq), Ghent university, Belgium
+* [Joni Kruijsbergen](https://www.lt3.ugent.be/people/joni-kruijsbergen/), Ghent university, Belgium
 * [Murathan Kurfali](https://www.su.se/english/profiles/muku8726-1.373629), Stockholm University, Sweden
 * [Ricardo Muñoz Sánchez](https://rimusa.github.io/about/), University of Gothenburg, Sweden
 * [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
