@@ -131,7 +131,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Kais Allkivi-Metsoja, Tallinn University, Estonia
   - Kristjan Suluste, Eesti Keele Instituut, Estonia 
 - German: 
-  - Andrea Horbach, Universität Hildesheim, Germany
+  - Andrea Horbach, IPN / CAU Kiel, Germany
   - Josef Ruppenhofer, FernUniversität in Hagen, Germany
   - Katrin Wisniewski, Universität Leipzig
   - Torsten Zesch, FernUniversität in Hagen, Germany
