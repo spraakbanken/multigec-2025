@@ -1,8 +1,8 @@
 # Shared task on Multilingual Grammatical Error Correction (MultiGEC-2025)
 
-The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering over 10 languages, including Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
+The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering 12 languages: Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
-The results will be presented on March 5 (or 2), 2025 (date to be confirmed), at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallinn, on 2--5 March 2025. 
+The results will be presented on March 5, 2025, at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallinn, on 2--5 March 2025. 
 
 The publication venue for system descriptions will be the proceedings of the NLP4CALL workshop. 
 
@@ -10,7 +10,7 @@ To register for/express interest in the shared task, please fill in [this form](
 
 To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multigec-2025).
 
-Official system evaluation will be carried out on CodaLab.  
+Official system evaluation will be carried out on CodaBench.  
 
 ## Task description
 In this shared task, your goal is to rewrite learner-written texts to make them grammatically correct or both grammatically correct and idiomatic, that is either adhering to the "minimal correction" principle or applying fluency edits. 
@@ -39,7 +39,8 @@ Evaluation will be performed on a separate test set.
 
 ### Data access
 
-To get access, you need to agree to the [Terms of Use](https://forms.gle/VLJ18WbwsxitEBYi7). 
+Training and validation data is available at [github.com/spraakbanken/multigec-2025-participants](https://github.com/spraakbanken/multigec-2025-participants).
+To get access to this repository, you need to agree to the [Terms of Use](https://forms.gle/VLJ18WbwsxitEBYi7). 
 
 ### Data Format
 The dataset, divided into folders based on language, consists of essay-aligned files, one containing the original learner essays, and one or more containing reference (corrected/normalized) texts.
@@ -61,22 +62,25 @@ Full text of the second essay/reference.
 ### External Data
 Participants may use additional resources to build their systems __provided that the resource is publicly available for research purposes__. This includes monolingual data, artificial data, pretrained models, syntactic parsers, etc. After the shared task, we encourage participants to share any newly created resources with the community.
 
+<!--
+
 ### Data Licenses
 
-| Language |  Corpus name | Corpus license | MultiGEC license | 
-|:---------|:-------------|:---------------|:------------------|
-| Czech    | 
-| English  | 
-| Estonian |
-| German   |
-| Greek    |
+| Language  |  Corpus name | Corpus license | MultiGEC license | 
+|:----------|:-------------|:---------------|:-----------------|
+| Czech     | 
+| English   | 
+| Estonian  |
+| German    |
+| Greek     |
 | Icelandic | 
-| Italian  | 
-| Latvian  | 
-| Russian  | 
-| Slovene  |
-| Swedish  |
+| Italian   | 
+| Latvian   | 
+| Russian   | 
+| Slovene   |
+| Swedish   | SweLL-gold | --CLARIN-ID, -PRIV, -NORED, -BY | 
 | Ukrainian |
+-->
 
 ## Evaluation 
 During the shared task, evaluation will be based on the following cross-lingually applicable __automatic metrics__:
@@ -90,17 +94,17 @@ During the shared task, evaluation will be based on the following cross-linguall
 After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
 ## Timeline (preliminary)
-* June 18, 2024 - first call for participation
-* September 20, 2024 - second call for participation 
-* October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
-* October 30, 2024 - reminder. Validation server released online
-* November 13, 2024 - test data released
-* November 20, 2024 - system submission deadline (system output)
-* November 29, 2024 - results announced
-* December 20, 2024 - paper submission deadline with system descriptions
-* January 20, 2025 - paper reviews sent to the authors
-* February 7, 2025 - camera-ready deadline
-* March 5 (or March 2), 2025 - presentations of the systems at the NLP4CALL workshop 
+* [x] June 18, 2024 - first call for participation
+* [ ] September 20, 2024 - second call for participation 
+* [ ] October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
+* [ ] October 30, 2024 - reminder. Validation server released online
+* [ ] November 13, 2024 - test data released
+* [ ] November 20, 2024 - system submission deadline (system output)
+* [ ] November 29, 2024 - results announced
+* [ ] December 20, 2024 - paper submission deadline with system descriptions
+* [ ] January 20, 2025 - paper reviews sent to the authors
+* [ ] February 7, 2025 - camera-ready deadline
+* [ ] March 5 (or March 2), 2025 - presentations of the systems at the NLP4CALL workshop 
 
 
 ## Publication
