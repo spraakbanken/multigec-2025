@@ -93,7 +93,7 @@ During the shared task, evaluation will be based on the following cross-linguall
 
 After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
-## Timeline (preliminary)
+## Timeline
 * [x] June 18, 2024 - first call for participation
 * [ ] September 20, 2024 - second call for participation 
 * [ ] October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
