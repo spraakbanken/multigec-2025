@@ -94,17 +94,17 @@ During the shared task, evaluation will be based on the following cross-linguall
 After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
 ## Timeline
-* [x] June 18, 2024 - first call for participation
-* [ ] September 20, 2024 - second call for participation 
-* [ ] October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
-* [ ] October 30, 2024 - reminder. Validation server released online
-* [ ] November 13, 2024 - test data released
-* [ ] November 20, 2024 - system submission deadline (system output)
-* [ ] November 29, 2024 - results announced
-* [ ] December 16, 2024 - paper submission deadline with system descriptions
-* [ ] January 20, 2025 - paper reviews sent to the authors
-* [ ] February 3, 2025 - camera-ready deadline
-* [ ] March 5, 2025 - presentations of the systems at the NLP4CALL workshop 
+* June 18, 2024 - first call for participation
+* September 20, 2024 - second call for participation 
+* October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
+* October 30, 2024 - reminder. Validation server released online
+* November 13, 2024 - test data released
+* November 20, 2024 - system submission deadline (system output)
+* November 29, 2024 - results announced
+* December 16, 2024 - paper submission deadline with system descriptions
+* January 20, 2025 - paper reviews sent to the authors
+* February 3, 2025 - camera-ready deadline
+* March 5, 2025 - presentations of the systems at the NLP4CALL workshop 
 
 
 ## Publication
