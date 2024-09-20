@@ -101,7 +101,7 @@ After the shared task, we also plan on carrying out a __human evaluation__ exper
 * [ ] November 13, 2024 - test data released
 * [ ] November 20, 2024 - system submission deadline (system output)
 * [ ] November 29, 2024 - results announced
-* [ ] December 20, 2024 - paper submission deadline with system descriptions
+* [ ] December 16, 2024 - paper submission deadline with system descriptions
 * [ ] January 20, 2025 - paper reviews sent to the authors
 * [ ] February 3, 2025 - camera-ready deadline
 * [ ] March 5, 2025 - presentations of the systems at the NLP4CALL workshop 
