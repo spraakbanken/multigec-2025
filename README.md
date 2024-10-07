@@ -145,6 +145,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Isidora Glisič, University of Iceland
 - Italian:
   - Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
+  - Lionel Nicolas, Eurac Research Bolzano, Italy
 - Latvian: 
   - Roberts Darģis, University of Latvia
   - Ilze Auzina, University of Latvia
