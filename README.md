@@ -142,7 +142,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 - Greek:
   - Alex Tantos, Aristotle University of Thessaloniki  
 - Icelandic:
-  - Isidora Glisič, University of Iceland
+  - Isidora Glišić, University of Iceland
 - Italian:
   - Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
   - Lionel Nicolas, Eurac Research Bolzano, Italy
