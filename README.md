@@ -140,7 +140,13 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Katrin Wisniewski, Universität Leipzig
   - Torsten Zesch, FernUniversität in Hagen, Germany
 - Greek:
-  - Alex Tantos, Aristotle University of Thessaloniki  
+  - Alexandros Tantos, Aristotle University of Thessaloniki
+  - Konstantinos Tsiotskas, Aristotle University of Thessaloniki
+  - Vassilis Varsamopoulos, Aristotle University of Thessaloniki
+  - Penelope Kikilintza, Aristotle University of Thessaloniki
+  - Elena Drakonaki, Aristotle University of Thessaloniki
+  - Elena Tsourilla,  Aristotle University of Thessaloniki
+  - Despina-Ourania Touriki, Aristotle University of Thessaloniki 
 - Icelandic:
   - Isidora Glišić, University of Iceland
 - Italian:
