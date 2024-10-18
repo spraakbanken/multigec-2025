@@ -96,8 +96,8 @@ After the shared task, we also plan on carrying out a __human evaluation__ exper
 ## Timeline
 * June 18, 2024 - first call for participation
 * September 20, 2024 - second call for participation 
-* October 20, 2024 - third call for participation. Training and validation data released, CodaLab opens for team registrations
-* October 30, 2024 - reminder. Validation server released online
+* October 20, 2024 - third call for participation. Training and validation data released
+* October 30, 2024 - reminder. CodaLab opens for team registrations, validation server released online
 * November 13, 2024 - test data released
 * November 20, 2024 - system submission deadline (system output)
 * November 29, 2024 - results announced
