@@ -12,7 +12,7 @@ To register for/express interest in the shared task, please fill in [this form](
 
 To get important information and updates about the shared task, please join the [MultiGEC-2025 Google Group](https://groups.google.com/g/multigec-2025).
 
-Official system evaluation will be carried out on CodaBench.  
+Official system evaluation will be carried out on CodaLab.  
 
 ## Task description
 In this shared task, your goal is to rewrite learner-written texts to make them grammatically correct or both grammatically correct and idiomatic, that is either adhering to the "minimal correction" principle or applying fluency edits. 
