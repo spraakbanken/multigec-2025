@@ -147,7 +147,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Vassilis Varsamopoulos, Aristotle University of Thessaloniki
   - Pinelopi Kikilintza, Aristotle University of Thessaloniki
   - Elena Drakonaki, Aristotle University of Thessaloniki
-  - Eleni Tsourialla,  Aristotle University of Thessaloniki
+  - Eleni Tsourilla,  Aristotle University of Thessaloniki
   - Despoina-Ourania Touriki, Aristotle University of Thessaloniki 
 - Icelandic:
   - Isidora Glišić, University of Iceland
