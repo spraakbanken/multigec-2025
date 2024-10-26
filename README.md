@@ -121,7 +121,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 * [Andrew Caines](https://www.cl.cam.ac.uk/~apc38/), University of Cambridge, UK
 * [Orphee De Clecrq](https://research.flw.ugent.be/en/orphee.declercq), Ghent university, Belgium
 * [Joni Kruijsbergen](https://www.lt3.ugent.be/people/joni-kruijsbergen/), Ghent university, Belgium
-* [Murathan Kurfali](https://www.su.se/english/profiles/muku8726-1.373629), Stockholm University, Sweden
+* [Murathan Kurfali](https://www.ri.se/sv/person/murathan-kurfali), RISE Research Institutes of Sweden, Sweden
 * [Ricardo Muñoz Sánchez](https://rimusa.github.io/about/), University of Gothenburg, Sweden
 * [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
 * [Robert Östling](https://www.su.se/english/profiles/robe-1.187515), Stockholm University, Sweden
