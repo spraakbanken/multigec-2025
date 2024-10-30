@@ -6,7 +6,7 @@ The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group inv
 
 The results will be presented on March 5, 2025, at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/), colocated with the [NoDaLiDa conference](https://www.nodalida-bhlt2025.eu/conference) to be held in Estonia, Tallinn, on 2--5 March 2025. 
 
-The publication venue for system descriptions will be the proceedings of the NLP4CALL workshop. 
+The publication venue for system descriptions will be the proceedings of the NLP4CALL workshop, co-piblished at ACL anthology. 
 
 To register for/express interest in the shared task, please fill in [this form](https://forms.gle/nTPfARVqy1XmqT4t6).   
 
