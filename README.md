@@ -1,6 +1,6 @@
 # Shared task on Multilingual Grammatical Error Correction (MultiGEC-2025)
 
-![MultiGEC-2025 logo](multigec-2025.png)
+![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on Multilingual Grammatical Error Correction, **MultiGEC**, covering 12 languages: Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
@@ -96,10 +96,10 @@ During the shared task, evaluation will be based on the following cross-linguall
 After the shared task, we also plan on carrying out a __human evaluation__ experiment on a subset of the submitted results. 
 
 ## Timeline
-* June 18, 2024 - first call for participation
-* September 20, 2024 - second call for participation 
-* October 20, 2024 - third call for participation. Training and validation data released
-* October 30, 2024 - reminder. CodaLab opens for team registrations, validation phase starts
+* June 18, 2024 - first call for participation ✓
+* September 20, 2024 - second call for participation ✓
+* October 20, 2024 - third call for participation. Training and validation data released ✓
+* October 31, 2024 - reminder. CodaLab opens for team registrations, validation phase starts ✓
 * November 13, 2024 - test phase starts
 * November 20, 2024 - system submission deadline (system output)
 * November 29, 2024 - results announced
