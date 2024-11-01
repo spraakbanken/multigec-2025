@@ -129,7 +129,6 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
 ## Data providers
 - Czech:
   - Alexandr Rosen, Charles University, Prague
-  - Adrian Jan Zasina, Charles University, Prague
 - English:
   - Diane Nicholls, ELiT, Cambridge University Press & Assessment
   - Andrew Caines, University of Cambridge
