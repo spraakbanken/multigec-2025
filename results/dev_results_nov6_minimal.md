@@ -1,5 +1,7 @@
 # Minimal track
-Ranking based on the ERRANT-based F0.5 score
+Preliminary results, last update 06/11/2024.
+Ranking based on the ERRANT-based F0.5 score.
+
 ## Czech
 ### NatWebInf
 

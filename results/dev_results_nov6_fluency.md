@@ -1,5 +1,7 @@
 # Fluency track
-Ranking based on the Scribendi score
+Preliminary results, last update 06/11/2024.
+Ranking based on the Scribendi score.
+
 ## Czech
 ### NatWebInf
 
