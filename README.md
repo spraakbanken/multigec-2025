@@ -2,7 +2,7 @@
 
 ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
-### For the __complete development-phase leaderboards__, click [here (minimal track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov6_minimal.md) and [here (fluency track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov6_fluency.md). Note, however, that these results are still preliminary.
+### For the __complete development-phase leaderboards__, click [here (minimal track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov13_minimal.md) and [here (fluency track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov13_fluency.md). Note, however, that these results are still preliminary.
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on text-level Multilingual Grammatical Error Correction, **MultiGEC**, covering 12 languages: Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
