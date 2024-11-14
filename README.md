@@ -135,7 +135,7 @@ Upon paper publication, we encourage you to share models, code, fact sheets, ext
   - Paula Buttery, University of Cambridge
 - Estonian: 
   - Mark Fishel, University of Tartu, Estonia
-  - Kais Allkivi-Metsoja, Tallinn University, Estonia
+  - Kais Allkivi, Tallinn University, Estonia
   - Kristjan Suluste, Eesti Keele Instituut, Estonia 
 - German: 
   - Andrea Horbach, IPN / CAU Kiel, Germany
