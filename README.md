@@ -101,8 +101,8 @@ After the shared task, we also plan on carrying out a __human evaluation__ exper
 * October 20, 2024 - third call for participation. Training and validation data released ✓
 * October 31, 2024 - reminder. CodaLab opens for team registrations, validation phase starts ✓
 * November 13, 2024 - test phase starts ✓
-* November ~~20~~ 22, 2024 - system submission deadline (system output)
-* November 29, 2024 - results announced
+* November ~~20~~ __29__ (__extended__), 2024 - system submission deadline (system output)
+* ~~November 29~~ December 2, 2024 - results announced
 * December 16, 2024 - paper submission deadline with system descriptions
 * January 20, 2025 - paper reviews sent to the authors
 * February 3, 2025 - camera-ready deadline
