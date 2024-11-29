@@ -108,6 +108,8 @@ After the shared task, we also plan on carrying out a __human evaluation__ exper
 * February 3, 2025 - camera-ready deadline
 * March 5, 2025 - presentations of the systems at the NLP4CALL workshop 
 
+__All deadlines above are AoE__.
+
 
 ## Publication
 We encourage you to submit a paper with your system description to the NLP4CALL workshop special track. 
