@@ -1,0 +1,10 @@
+title: Shared task on Multilingual Grammatical Error Correction (MultiGEC-2025)
+author: 
+  name: CompSLA group
+
+description: > 
+  First shared task on text-level Multilingual Grammatical Error Correction covering 12 languages.
+
+header_pages:
+  - results/test_results_minimal.md
+  - results/test_results_fluency.md

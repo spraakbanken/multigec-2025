@@ -1,4 +1,4 @@
-# Minimal track
+# Results - minimal edits track
 Ranking based on the ERRANT-based F0.5 score
 ## Czech
 ### NatWebInf
