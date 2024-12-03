@@ -1,4 +1,4 @@
-# Results - fluency track
+# Results - fluency edits track
 Ranking based on the Scribendi score
 ## Czech
 ### NatWebInf
