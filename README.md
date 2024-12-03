@@ -1,6 +1,6 @@
 # ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
-## Shared task on Multilingual Grammatical Error Correction
+__Shared task on Multilingual Grammatical Error Correction__
 
 ### For the shared task __results__, click [here (__minimal edits track__)](https://spraakbanken.github.io/multigec-2025/results/test_results_minimal.html) and [here (__fluency edits track__)](https://spraakbanken.github.io/multigec-2025/results/test_results_fluency.html).
 
