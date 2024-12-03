@@ -2,7 +2,7 @@
 
 ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
-### For the __complete development-phase leaderboards__, click [here (minimal track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov13_minimal.md) and [here (fluency track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/dev_results_nov13_fluency.md).
+### For the __results__, click [here (minimal track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/test_results_minimal.md) and [here (fluency track)](https://github.com/spraakbanken/multigec-2025/blob/main/results/test_results_fluency.md).
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on text-level Multilingual Grammatical Error Correction, **MultiGEC**, covering 12 languages: Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
@@ -36,7 +36,7 @@ We particularly encourage development of multilingual systems that can process a
 ## Data
 
 We provide training, development and test data for each of the languages.
-The training and development splits will be made available through Github. 
+The training and development splits will be made available through GitHub. 
 Evaluation will be performed on a separate test set. 
 
 ### Data access
@@ -101,8 +101,8 @@ After the shared task, we also plan on carrying out a __human evaluation__ exper
 * October 20, 2024 - third call for participation. Training and validation data released ✓
 * October 31, 2024 - reminder. CodaLab opens for team registrations, validation phase starts ✓
 * November 13, 2024 - test phase starts ✓
-* November ~~20~~ __29__, 2024 (__extended__) - system submission deadline (system output)
-* ~~November 29~~ December 2, 2024 - results announced
+* November ~~20~~ __29__, 2024 (__extended__) - system submission deadline (system output) ✓
+* ~~November 29~~ December 2, 2024 - results announced ✓
 * December 16, 2024 - paper submission deadline with system descriptions
 * January 20, 2025 - paper reviews sent to the authors
 * February 3, 2025 - camera-ready deadline
