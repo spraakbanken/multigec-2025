@@ -11,4 +11,4 @@ title: Terms of use
 - The datasets must not be redistributed or shared in part or full with any third party.
 - If you use any of the subsets provided in the dataset, you agree to cite the associated papers referring to the source corpora.
 
-Contact [multigec@svenska.gu.se] for more information.
+Contact [multigec@svenska.gu.se](mailto:multigec@svenska.gu.se) for more information.
