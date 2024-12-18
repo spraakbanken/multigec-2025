@@ -2,4 +2,4 @@
 title: Shared task
 ---
 
-{% include multigec-2025.md %}
+{% include_relative multigec-2025.md %}
