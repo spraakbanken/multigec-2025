@@ -2,7 +2,9 @@
 title: "Results - fluency edits track"
 ---
 
-Ranking based on the Scribendi score
+Ranking and plot based on the Scribendi score.
+
+![Scribendi scores](../plots/results_fluency_Scribendi.svg)
 
 ## Czech
 ### NatWebInf

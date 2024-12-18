@@ -2,7 +2,9 @@
 title: "Results - minimal edits track"
 ---
 
-Ranking based on the ERRANT-based F0.5 score
+Ranking and plot based on the ERRANT-based F0.5 score.
+
+![F0.5 scores](../plots/results_minimal_F0.5.svg)
 
 ## Czech
 ### NatWebInf
