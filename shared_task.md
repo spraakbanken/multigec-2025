@@ -1,3 +1,7 @@
+--- 
+title: Shared task
+---
+
 # ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
 __Shared task on Multilingual Grammatical Error Correction__

@@ -1,1 +1,5 @@
-# ![MultiGEC-2025](multigec.png)
+--- 
+title: MultiGEC
+---
+
+# ![MultiGEC](multigec.png)

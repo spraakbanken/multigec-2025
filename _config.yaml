@@ -10,5 +10,5 @@ header_pages:
 remote_theme: jekyll/minima
 
 minima:
-  skin: auto
+  skin: classic
   date_format: "%-d %B %Y"
