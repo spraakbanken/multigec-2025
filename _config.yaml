@@ -9,8 +9,8 @@ header_pages:
   - data_format.md
   - terms_of_use.md
   - contributors.md
-  - shared_task.md
   - publications.md
+  - shared_task.md
 
 remote_theme: jekyll/minima
 
