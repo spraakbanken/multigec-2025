@@ -1,6 +1,6 @@
 # ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
-###### Quick links: [call for participation](#call-for-participation) | [task description](#task-description) | [data](#data) | [evaluation](#evaluation) | [timeline](#timeline) | [publication](#publication) | [results](#results) | [organizers](#organizers) | [data providers](#data-providers)
+###### Quick links: [call for participation](#call-for-participation) | [task description](#task-description) | [data](#data) | [evaluation](#evaluation) | [timeline](#timeline) | [publication](#publication) | [results](#results) | [organizers](#organizers) | [data providers](#data-providers) | [acknowledgements](#acknowledgements)
 
 
 ## Call for participation
@@ -133,3 +133,5 @@ Official results for the competitive phase of the tasks, (ended on November 29, 
 - Ukrainian:
   - Oleksiy Syvokon, Microsoft
   - Mariana Romanyshyn, Grammarly
+
+## Acknowledgements
