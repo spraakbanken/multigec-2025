@@ -138,6 +138,6 @@ Official results for the competitive phase of the tasks, (ended on November 29, 
 ## Acknowledgements
 Some organizers and data providers from Sweden have been supported by Nationella språkbanken and Huminfra, both funded by the Swedish Research Council (2018-2024, contract 2017-00626; 2022-2024, contract 2021-00176) and their participating partner institutions, as well as the Swedish Research Council grant 2019-04129.
 
-Evaluation was enabled by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 202206725, and by Cambridge University Press \& Assessment. We thank NAISS for providing computational resources under \textit{Projects 2024/22-21 and 2023/22-1238}.
+Evaluation was enabled by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 202206725, and by Cambridge University Press & Assessment. We thank NAISS for providing computational resources under \textit{Projects 2024/22-21 and 2023/22-1238}.
 
 For the full subcorpus-wise acknowledgements, see [this page](https://spraakbanken.github.io/multigec-2025/contributors.html). 
