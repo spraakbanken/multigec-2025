@@ -1,5 +1,5 @@
 # ![MultiGEC](multigec.png)
-MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) that was originally compiled in the context of [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html), the first text-level GEC shared task.
+MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by [the CompSLA working group and over 20 external data providers](https://spraakbanken.github.io/multigec-2025/contributors.html) in the context of [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html), the first text-level GEC shared task.
 
 ## Access
 The MultiGEC dataset is subject to the terms of use listed [here](https://spraakbanken.github.io/multigec-2025/terms_of_use.html).
