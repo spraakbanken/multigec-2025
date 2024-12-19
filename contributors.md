@@ -2,7 +2,7 @@
 title: Contributors
 ---
 
-The MultiGEC dataset is the result of a collaboration between the [the CompSLA working group](https://spraakbanken.gu.se/compsla), responsible for the __design, validation and distribution of the MultiGEC dataset__, and over 20 external data providers. 
+The MultiGEC dataset is the result of a collaboration between the [the CompSLA working group](https://spraakbanken.gu.se/compsla), responsible for the __design, validation and distribution of the MultiGEC dataset__, and over 20 external data providers, who contributed to its 17 subcorpora. 
 
 The __individual MultiGEC subcorpora__ were curated by the following people:
 
