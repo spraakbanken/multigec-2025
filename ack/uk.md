@@ -1,0 +1,1 @@
+The creation of UA-GEC was initiated and supported by Grammarly. We extend special gratitude to Olena Nahorna, Pavlo Kuchmiichuk, Nastasiia Osidach, Ira Kotkalova, Anna Vesnii, Halyna Kolodkevych, and everyone else who participated in the corpus creation.

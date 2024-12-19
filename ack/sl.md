@@ -1,0 +1,1 @@
+The research program Language Resources and Technologies for Slovene (P6-0411) and the projects Empirical Foundations for Digitally-Supported Development of Writing Skills (J7-3159) and Large Language Models for Digital Humanities (GC-0002) are funded by the Slovenian Research and Innovation Agency.

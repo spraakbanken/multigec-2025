@@ -6,26 +6,35 @@ The MultiGEC dataset is the result of a collaboration between the [the CompSLA w
 
 The __individual MultiGEC subcorpora__ were curated by the following people:
 
-#### Czech
+### Czech
 - Alexandr Rosen, Charles University, Prague
 
-#### English
+#### Acknowledgement
+{% include_relative ack/cs.md %}
+
+### English
 - Diane Nicholls, ELiT, Cambridge University Press & Assessment
 - Andrew Caines, University of Cambridge
 - Paula Buttery, University of Cambridge
 
-#### Estonian 
+#### Acknowledgement
+{% include_relative ack/en.md %}
+
+### Estonian 
 - Mark Fishel, University of Tartu, Estonia
 - Kais Allkivi, Tallinn University, Estonia
 - Kristjan Suluste, Eesti Keele Instituut, Estonia 
 
-#### German 
+#### Acknowledgement
+{% include_relative ack/et.md %}
+
+### German 
 - Andrea Horbach, IPN / CAU Kiel, Germany
 - Josef Ruppenhofer, FernUniversität in Hagen, Germany
 - Katrin Wisniewski, Universität Leipzig
 - Torsten Zesch, FernUniversität in Hagen, Germany
 
-#### Greek
+### Greek
 - Alexandros Tantos, Aristotle University of Thessaloniki
 - Konstantinos Tsiotskas, Aristotle University of Thessaloniki
 - Vassilis Varsamopoulos, Aristotle University of Thessaloniki
@@ -34,28 +43,40 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 - Eleni Tsourilla,  Aristotle University of Thessaloniki
 - Despoina-Ourania Touriki, Aristotle University of Thessaloniki 
 
-#### Icelandic
+### Icelandic
 - Isidora Glišić, University of Iceland
 
-#### Italian
+#### Acknowledgement
+{% include_relative ack/is.md %}
+
+### Italian
 - Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
 - Lionel Nicolas, Eurac Research Bolzano, Italy
 
-#### Latvian 
+### Latvian 
 - Roberts Darģis, University of Latvia
 - Ilze Auzina, University of Latvia
 
-#### Russian
+### Russian
 - Alla Rozovskaya, City University of New York (CUNY), USA
 
-#### Slovene
+### Slovene
 - Špela Arhar Holdt, University of Ljubljana, Slovenia
 - Aleš Žagar, University of Ljubljana, Slovenia
 
-#### Swedish
+#### Acknowledgement
+{% include_relative ack/sl.md %}
+
+### Swedish
 - Arianna Masciolini, University of Gothenburg, Sweden
 - Elena Volodina, University of Gothenburg, Sweden
 
-#### Ukrainian:
+#### Acknowledgement
+{% include_relative ack/sv.md %}
+
+### Ukrainian:
 - Oleksiy Syvokon, Microsoft
 - Mariana Romanyshyn, Grammarly
+
+#### Acknowledgement
+{% include_relative ack/uk.md %}

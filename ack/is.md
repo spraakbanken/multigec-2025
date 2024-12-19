@@ -1,0 +1,1 @@
+The error corpora project was funded by the Icelandic Government as a part of the Language Technology Programme for Icelandic 2019–2023. We thank the following people for their contribution in collecting, correcting, and annotating the corpora: Anton Karl Ingason, Lilja Björk Stefánsdóttir, Þórunn Arnardóttir, Dagbjört Guðmundsdóttir, Isidora Glišić and Xindan Xu.

@@ -130,6 +130,7 @@ Official results for the competitive phase of the tasks, (ended on November 29, 
   - Aleš Žagar, University of Ljubljana, Slovenia
 - Swedish:
   - Arianna Masciolini, University of Gothenburg, Sweden
+  - Elena Volodina, University of Gothenburg, Sweden
 - Ukrainian:
   - Oleksiy Syvokon, Microsoft
   - Mariana Romanyshyn, Grammarly
