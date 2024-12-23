@@ -34,6 +34,8 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 - Katrin Wisniewski, Universität Leipzig
 - Torsten Zesch, FernUniversität in Hagen, Germany
 
+{% include_relative ack/de.md %}
+
 ### Greek
 - Alexandros Tantos, Aristotle University of Thessaloniki
 - Konstantinos Tsiotskas, Aristotle University of Thessaloniki
