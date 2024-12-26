@@ -1,1 +1,1 @@
-Andrew Caines has been supported by Cambridge University Press & Assessment. Thanks to Diane Nicholls and Paula Buttery for co-preparation of the Write \& Improve Corpus 2024. Thanks also to Christopher Bryant for discussion around the use of ERRANT cross-linguistically.
+Andrew Caines has been supported by Cambridge University Press & Assessment. Thanks to Diane Nicholls and Paula Buttery for co-preparation of the Write & Improve Corpus 2024.

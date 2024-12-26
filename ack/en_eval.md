@@ -1,1 +1,1 @@
-Andrew Caines has been supported by Cambridge University Press \& Assessment.
+Andrew Caines has been supported by Cambridge University Press & Assessment. Thanks also to Christopher Bryant for discussion around the use of ERRANT cross-linguistically.
