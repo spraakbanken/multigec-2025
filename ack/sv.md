@@ -1,1 +1,1 @@
-Work on Swedish has been supported by Nationella språkbanken and Huminfra, both funded by the Swedish Research Council (2018-2024, contract 2017-00626; 2022-2024, contract 2021-00176) and their participating partner institutions, as well as the Swedish Research Council grant 2019-04129.
+Work on Swedish has been supported by Nationella Språkbanken and Huminfra, both funded by the Swedish Research Council (2018-2024, contract 2017-00626; 2022-2024, contract 2021-00176) and their participating partner institutions, as well as the Swedish Research Council grant 2019-04129.
