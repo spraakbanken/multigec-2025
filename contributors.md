@@ -34,6 +34,7 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 - Katrin Wisniewski, Universität Leipzig
 - Torsten Zesch, FernUniversität in Hagen, Germany
 
+#### Acknowledgement
 {% include_relative ack/de.md %}
 
 ### Greek
@@ -44,6 +45,9 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 - Elena Drakonaki, Aristotle University of Thessaloniki
 - Eleni Tsourilla,  Aristotle University of Thessaloniki
 - Despoina-Ourania Touriki, Aristotle University of Thessaloniki 
+
+#### Acknowledgement
+{% include_relative ack/el.md %}
 
 ### Icelandic
 - Isidora Glišić, University of Iceland
