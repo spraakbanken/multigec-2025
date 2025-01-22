@@ -59,6 +59,9 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 - Jennifer-Carmen Frey, Eurac Research Bolzano, Italy
 - Lionel Nicolas, Eurac Research Bolzano, Italy
 
+#### Acknowledgement
+{% include_relative ack/it.md %}
+
 ### Latvian 
 - Roberts Darģis, University of Latvia
 - Ilze Auzina, University of Latvia

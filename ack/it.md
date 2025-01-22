@@ -1,0 +1,1 @@
+The MERLIN project was funded from 2012 until 2014 by the EU Lifelong Learning Programme under project number 518989-LLP-1-2011-1-DE-KA2-KA2MP.
