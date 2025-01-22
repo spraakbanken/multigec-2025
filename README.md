@@ -8,7 +8,9 @@ A stable download link will be provided soon.
 
 ## Overview
 The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. 
-More detailed information about each subcorpus is available as machine-readable metadata, whose format is described [here](https://spraakbanken.github.io/multigec-2025/data_format.html).
+More detailed information about each subcorpus is available with the data as machine-readable metadata, whose format is described [here](https://spraakbanken.github.io/multigec-2025/data_format.html). 
+See also the full [dataset statistics](https://spraakbanken.github.io/multigec-2025/stats.html).
+
 
 | language code | subcorpus       | learners              |   # essays (train) |   # essays (dev) |   # essays (test) |   # essays (total) |   hypothesis sets | minimal   | fluency   | peculiarities                                             |
 |-----------:|:----------------|:----------------------|--------:|------:|-------:|--------:|------------------:|:----------|:----------|:----------------------------------------------------------|

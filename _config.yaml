@@ -7,6 +7,7 @@ description: >
   A dataset for Multilingual Grammatical Error Correction
 header_pages:
   - data_format.md
+  - stats.md
   - terms_of_use.md
   - contributors.md
   - publications.md
