@@ -1,10 +1,8 @@
 # ![MultiGEC](multigec.png)
-MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by [the CompSLA working group and over 20 external data providers](https://spraakbanken.github.io/multigec-2025/contributors.html) in the context of [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html), the first text-level GEC shared task.
 
-## Access and citation
-The MultiGEC dataset is subject to the terms of use listed [here](https://spraakbanken.github.io/multigec-2025/terms_of_use.html).
-To get the data, go to the [download page](https://lt3.ugent.be/resources/multigec-dataset).
-Information on how to cite the dataset is available [here](https://spraakbanken.gu.se/en/resources/multigec).
+###### Quick links: [dataset overview](#overview) | [using MultiGEC](#usage) | [citing](#citing-multigec)
+
+MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by [the CompSLA working group and over 20 external data providers](https://spraakbanken.github.io/multigec-2025/contributors.html) in the context of [MultiGEC-2025](https://spraakbanken.github.io/multigec-2025/shared_task.html), the first text-level GEC shared task.
 
 ## Overview
 The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. 
@@ -31,3 +29,12 @@ See also the full [dataset statistics](https://spraakbanken.github.io/multigec-2
 | sl         | Solar-Eval      | L1 (students)         |      10 |    50 |     49 |     109 |                 1 | ✓         |           |                                                           |
 | sv         | SweLL_gold      | L2                    |     402 |    50 |     50 |     502 |                 1 | ✓         |           |                                                           |
 | uk         | UA-GEC          | mixed (crowdsourced)  |    1706 |    87 |     79 |    1872 |                 4 | ✓         | ✓         |                                                           |
+
+## Usage
+The MultiGEC dataset is subject to the __terms of use__ listed [here](https://spraakbanken.github.io/multigec-2025/terms_of_use.html).
+To get the __data__, go to the [download page](https://lt3.ugent.be/resources/multigec-dataset).
+A collection of __scripts__ to work with MultiGEC data is avialable through [GitHub](https://github.com/spraakbanken/multigec-2025/tree/main/scripts).
+
+## Citing MultiGEC
+Information on how to cite the dataset is available [here](https://spraakbanken.gu.se/en/resources/multigec).
+See also the list of MultiGEC-related [publications](https://spraakbanken.github.io/multigec-2025/publications.html).
