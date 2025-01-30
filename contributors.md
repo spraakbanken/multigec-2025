@@ -63,8 +63,11 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 {% include_relative ack/it.md %}
 
 ### Latvian 
-- Roberts Darģis, University of Latvia
-- Ilze Auzina, University of Latvia
+- Roberts Darģis, IMCS at the University of Latvia
+- Ilze Auzina, IMCS at the University of Latvia
+
+#### Acknowledgement
+{% include_relative ack/lv.md %}
 
 ### Russian
 - Alla Rozovskaya, City University of New York (CUNY), USA
