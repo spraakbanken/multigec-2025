@@ -1,5 +1,5 @@
 ---
-title: "Results - minimal edits track"
+title: "Official shared task evaluation results - minimal edits track"
 ---
 
 Ranking and plot based on the ERRANT-based F0.5 score.
