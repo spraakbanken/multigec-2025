@@ -1,0 +1,1 @@
+The compilation of the Greek Learner Corpus II has been supported by the Hellenic Foundation for Research and Innovation through the project "Latent Aspects in L2 Acquisition (LAL2A)" (Grant Number 3161) as part of the 1st Call for "Research Projects to Support Faculty Members & Researchers and Procure High-Value Research Equipment".
