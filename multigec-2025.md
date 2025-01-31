@@ -84,8 +84,8 @@ Official results for the competitive phase of the tasks, (ended on November 29, 
 
 In addition, the latest results on the development set (last updated on January 30, 2025) are available here:
 
-- [__minimal edits__ track](https://spraakbanken.github.io/multigec-2025/results/dev_results_jan30_minimal.md)
-- [__fluency edits__ track](https://spraakbanken.github.io/multigec-2025/results/dev_results_jan30_fluency.md).
+- [__minimal edits__ track](https://spraakbanken.github.io/multigec-2025/results/dev_results_jan30_minimal.html)
+- [__fluency edits__ track](https://spraakbanken.github.io/multigec-2025/results/dev_results_jan30_fluency.html).
 
 ## Organizers
 * [Arianna Masciolini](https://harisont.github.io/research.html), University of Gothenburg, Sweden
