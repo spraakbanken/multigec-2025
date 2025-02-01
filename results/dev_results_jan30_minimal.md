@@ -3,7 +3,9 @@ title: "Results on development data as of January 30, 2025 - fluency edits track
 ---
 
 Ranking based on the ERRANT-based F0.5 score
+
 ## Czech
+
 ### NatForm
 
 | Rank | Team | GLEU | Precision | Recall | __F0.5__ | Scribendi |

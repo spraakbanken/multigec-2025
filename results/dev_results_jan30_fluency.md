@@ -3,7 +3,9 @@ title: "Results on development data as of January 30, 2025 - fluency edits track
 ---
 
 Ranking based on the Scribendi score
+
 ## Czech
+
 ### NatForm
 
 | Rank | Team | GLEU | Precision | Recall | F0.5 | __Scribendi__ |
