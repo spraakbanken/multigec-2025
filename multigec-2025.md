@@ -1,8 +1,5 @@
 # ![MultiGEC-2025 logo](multigec-2025-horizontal.png)
 
-###### Quick links: [call for participation](#call-for-participation) | [task description](#task-description) | [data](#data) | [evaluation](#evaluation) | [timeline](#timeline) | [publication](#publication) | [results](#results) | [organizers](#organizers) | [data providers](#data-providers) | [acknowledgements](#acknowledgements)
-
-
 ## Call for participation
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the shared task on text-level Multilingual Grammatical Error Correction, **MultiGEC**, covering 12 languages: Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian (see also the [call for participation on the ACL portal](https://www.aclweb.org/portal/content/shared-task-multilingual-grammatical-error-correction-2025)).
 
