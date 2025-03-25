@@ -5,16 +5,16 @@ author:
 
 description: > 
   A dataset for Multilingual Grammatical Error Correction
-header_pages:
-  - data_format.md
-  - stats.md
-  - terms_of_use.md
-  - contributors.md
-  - publications.md
-  - shared_task.md
 
 remote_theme: jekyll/minima
 
 minima:
   skin: classic
   date_format: "%-d %B %Y"
+  nav_pages:
+    - data_format.md
+    - stats.md
+    - terms_of_use.md
+    - contributors.md
+    - publications.md
+    - shared_task.md
