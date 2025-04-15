@@ -36,5 +36,5 @@ To get the __data__, go to the [download page](https://lt3.ugent.be/resources/mu
 A collection of __scripts__ to work with MultiGEC data is avialable through [GitHub](https://github.com/spraakbanken/multigec-2025/tree/main/scripts).
 
 ## Citing MultiGEC
-Information on how to cite the dataset is available [here](https://spraakbanken.gu.se/en/resources/multigec).
-See also the list of MultiGEC-related [publications](https://spraakbanken.github.io/multigec-2025/publications.html).
+If you use the MultiGEC dataset, please cite both [the resource](https://spraakbanken.gu.se/en/resources/multigec) and [the paper describing it](https://www.jbe-platform.com/content/journals/10.1075/ijlcr.24033.mas).
+See also the [complete list of MultiGEC-related publications](https://spraakbanken.github.io/multigec-2025/publications.html).

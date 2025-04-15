@@ -2,4 +2,18 @@
 title: Publications
 ---
 
-Coming soon!
+The __MultiGEC dataset__ is presented in the paper
+
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Muñoz Sánchez, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darg̀is, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, and Torsten Zesch. _Towards better language representation in Natural Language Processing - a multilingual dataset for text-level Grammatical Error Correction_. International Journal of Learner Corpus Research, 2025 [[pdf]](https://www.jbe-platform.com/content/journals/10.1075/ijlcr.24033.mas) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-paper.bib)
+
+Additional details about the __state of GEC for the 12 MultiGEC languages__ at the time the dataset was compiled are provided in
+
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Muñoz Sánchez, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darg̀is, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, and Torsten Zesch. _An overview of Grammatical Error Correction for the twelve MultiGEC-2025 languages_. Gothenburg, Sweden, 2025. Institution for Swedish, Multilingualism, Language Technology; University of Gothenburg [[pdf]](https://hdl.handle.net/2077/84800) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-state.bib)
+
+An overview of the __[MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html)__ is given in the paper
+
+- Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Muñoz Sánchez, Elena Volodina, and Robert Östling. _The MultiGEC-2025 shared task on Multilingual Grammatical Error Correction at NLP4CALL_. In Ricardo Muñoz Sánchez, David Alfter, Elena Volodina, and Jelena Kallas, editors, Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning, pages 1-33, Tallinn, Estonia, March 2025. University of Tartu Library [[pdf]](https://aclanthology.org/2025.nlp4call-1.1/) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-2025.bib)
+
+## Other works using MultiGEC
+- Ryszard Staruch. UAM-CSI at MultiGEC-2025: _Parameter-efficient LLM fine-tuning for multilingual grammatical error correction_. In Ricardo Muñoz Sánchez, David Alfter, Elena Volodina, and Jelena Kallas, editors, Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning, pages 42-49, Tallinn, Estonia, March 2025. University of Tartu Library [[pdf]](https://aclanthology.org/2025.nlp4call-1.3/) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-2025-uamcsi.bib) (__winner of the 2025 shared task__)
+- Olga Seminck, Yoann Dupont, Mathieu Dehouck, Qi Wang, Noé Durandard, and Margo Novikov. _Lattice @MultiGEC-2025: A spitful multilingual language error correction system using LLaMA_. In Ricardo Muñoz Sánchez, David Alfter, Elena Volodina, and Jelena Kallas, editors, Proceedings of the 14th Workshop on Natural Language Processing for Computer Assisted Language Learning, pages 34-41, Tallinn, Estonia, March 2025. University of Tartu Library [[pdf]](https://aclanthology.org/2025.nlp4call-1.2/) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-2025-lattice.bib)
