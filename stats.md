@@ -260,16 +260,16 @@ Following is an overview of the sizes of the 17 subcorpora that make up the Mult
       <th>Swedish - SweLL-gold</th>
       <td>402</td>
       <td>402</td>
-      <td>0</td>
+      <td>402</td>
       <td>50</td>
       <td>50</td>
-      <td>0</td>
       <td>50</td>
       <td>50</td>
-      <td>0</td>
+      <td>50</td>
+      <td>50</td>
       <td>502</td>
       <td>502</td>
-      <td>0</td>
+      <td>502</td>
     </tr>
     <tr>
       <th>Ukrainian - UA-GEC</th>
@@ -1349,18 +1349,21 @@ The number of sentences and tokens were recomputed to ensure cross-language cons
   <thead>
     <tr>
       <th></th>
-      <th colspan="2" halign="right">tokens</th>
-      <th colspan="2" halign="right">sentences</th>
-      <th colspan="2" halign="right">texts</th>
+      <th colspan="3" halign="left">tokens</th>
+      <th colspan="3" halign="left">sentences</th>
+      <th colspan="3" halign="left">texts</th>
     </tr>
     <tr>
       <th></th>
-      <th>orig</th>
-      <th>hyp1</th>
-      <th>orig</th>
-      <th>hyp1</th>
-      <th>orig</th>
-      <th>hyp1</th>
+      <th>original_essays</th>
+      <th>reference_essays_1</th>
+      <th>reference_essays_2</th>
+      <th>original_essays</th>
+      <th>reference_essays_1</th>
+      <th>reference_essays_2</th>
+      <th>original_essays</th>
+      <th>reference_essays_1</th>
+      <th>reference_essays_2</th>
     </tr>
   </thead>
   <tbody>
@@ -1368,8 +1371,11 @@ The number of sentences and tokens were recomputed to ensure cross-language cons
       <th>train</th>
       <td>120035</td>
       <td>123372</td>
+      <td>118736</td>
       <td>6294</td>
       <td>6860</td>
+      <td>6863</td>
+      <td>402</td>
       <td>402</td>
       <td>402</td>
     </tr>
@@ -1377,8 +1383,11 @@ The number of sentences and tokens were recomputed to ensure cross-language cons
       <th>dev</th>
       <td>13182</td>
       <td>13499</td>
+      <td>12756</td>
       <td>724</td>
       <td>770</td>
+      <td>810</td>
+      <td>50</td>
       <td>50</td>
       <td>50</td>
     </tr>
@@ -1386,8 +1395,11 @@ The number of sentences and tokens were recomputed to ensure cross-language cons
       <th>test</th>
       <td>12016</td>
       <td>12376</td>
+      <td>11940</td>
       <td>653</td>
       <td>704</td>
+      <td>719</td>
+      <td>50</td>
       <td>50</td>
       <td>50</td>
     </tr>
@@ -1395,8 +1407,11 @@ The number of sentences and tokens were recomputed to ensure cross-language cons
       <th>total</th>
       <td>145233</td>
       <td>149247</td>
+      <td>143432</td>
       <td>7671</td>
       <td>8334</td>
+      <td>8392</td>
+      <td>502</td>
       <td>502</td>
       <td>502</td>
     </tr>
