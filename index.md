@@ -27,7 +27,7 @@ See also the full [dataset statistics](https://spraakbanken.github.io/multigec-2
 | lv         | LaVA            | L2                    |     813 |   101 |    101 |    1015 |                 1 | ✓         |           |                                                           |
 | ru         | RULEC-GEC       | mixed (L2 + heritage) |    2539 |  1969 |   1535 |    6043 |                 3 | ✓         | ✓         | pre-tokenized; includes text fragments; separate download |
 | sl         | Solar-Eval      | L1 (students)         |      10 |    50 |     49 |     109 |                 1 | ✓         |           |                                                           |
-| sv         | SweLL_gold      | L2                    |     402 |    50 |     50 |     502 |                 1 | ✓         |           |                                                           |
+| sv         | SweLL_gold      | L2                    |     402 |    50 |     50 |     502 |                 2 | ✓         | ✓         | fluency references will appear in an upcoming v1.1 release|
 | uk         | UA-GEC          | mixed (crowdsourced)  |    1706 |    87 |     79 |    1872 |                 4 | ✓         | ✓         |                                                           |
 
 ## Usage
