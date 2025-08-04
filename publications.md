@@ -2,7 +2,6 @@
 title: Publications
 ---
 
-## Papers describing MultiGEC
 The __MultiGEC dataset__ (version 1) is presented in the paper:
 
 - Arianna Masciolini, Andrew Caines, Orphée De Clercq, Joni Kruijsbergen, Murathan Kurfalı, Ricardo Muñoz Sánchez, Elena Volodina, Robert Östling, Kais Allkivi, Špela Arhar Holdt, Ilze Auzina, Roberts Darg̀is, Elena Drakonaki, Jennifer-Carmen Frey, Isidora Glišić, Pinelopi Kikilintza, Lionel Nicolas, Mariana Romanyshyn, Alexandr Rosen, Alla Rozovskaya, Kristjan Suluste, Oleksiy Syvokon, Alexandros Tantos, Despoina-Ourania Touriki, Konstantinos Tsiotskas, Eleni Tsourilla, Vassilis Varsamopoulos, Katrin Wisniewski, Aleš Žagar, and Torsten Zesch. _Towards better language representation in Natural Language Processing - a multilingual dataset for text-level Grammatical Error Correction_. International Journal of Learner Corpus Research, 2025 [[full text]](https://www.jbe-platform.com/content/journals/10.1075/ijlcr.24033.mas) [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-paper.bib)
