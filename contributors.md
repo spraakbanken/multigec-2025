@@ -82,6 +82,7 @@ The __individual MultiGEC subcorpora__ were curated by the following people:
 ### Swedish
 - Arianna Masciolini, University of Gothenburg, Sweden
 - Elena Volodina, University of Gothenburg, Sweden
+- Karl Törnblom Bartholf
 
 #### Acknowledgement
 {% include_relative ack/sv.md %}
