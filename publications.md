@@ -12,7 +12,7 @@ Additional details about the __state of GEC for the 12 MultiGEC languages__ at t
 
 __Data that was incorporated into MultiGEC after the shared task__ is described in:
 
-- Karl Törnblom Bartholf. _From Fuþark to essay - how well does the Viking LLM perform Grammatical Error Correction?_ 2025 [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-thesis-futhark.bib)
+- Karl Törnblom Bartholf. _From Fuþark to essay - how well does the Viking LLM perform Grammatical Error Correction?_ 2025 [[bibtex]](https://spraakbanken.github.io/multigec-2025/bib/multigec-thesis-futhark.bib) [[full text]](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1986377&dswid=6196)
 
 ## MultiGEC-2025 shared task
 An overview of the __[MultiGEC-2025 shared task](https://spraakbanken.github.io/multigec-2025/shared_task.html)__ is given in the paper:
